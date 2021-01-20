@@ -2,11 +2,12 @@ body{
   margin: 0px;
 }
 h1 {
-  text-align : center;
+  text-align: center;
   font-size: 50px;
   border-bottom: solid black 1px;
   padding-bottom: 26px;
   margin-bottom: 0px;
+  color: black;
 }
 a {color : blue;}
 .center{
